@@ -77,12 +77,4 @@
 🔹Approve the CSR – `kubectl certificate approve <csr-name>`  
 🔹Deny a Malicious CSR – `kubectl certificate deny <csr-name>`  
 
----
 
-🔹 Final Tips for Interview Success  
-✔Structure responses clearly (State the issue, common causes, troubleshooting steps, and resolution).  
-✔Use concise and technical explanations (Mention key commands and tools like `kubectl logs`, `describe`, `top nodes`).  
-✔Highlight real-world scenarios (Example: "In one of my projects, we faced a persistent ImagePullBackOff error due to incorrect AWS ECR credentials. We resolved it by updating the service account permissions.").  
-✔Demonstrate proactive problem-solving (Example: "To prevent disk space issues, we set up an alert system using Prometheus to track node disk usage.").  
-
-Would you like mock interview practice with Kubernetes troubleshooting questions? 🚀
